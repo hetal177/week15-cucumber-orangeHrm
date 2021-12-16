@@ -1,0 +1,50 @@
+2021-12-15 23:12:366 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:210 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (f383a93b7a077ed04e56e46e08762e06)] -> css selector: input#txtUsername]
+2021-12-15 23:12:387 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (f383a93b7a077ed04e56e46e08762e06)] -> css selector: input#txtPassword]
+2021-12-15 23:12:850 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (f383a93b7a077ed04e56e46e08762e06)] -> css selector: input.button]
+2021-12-15 23:12:696 INFO  LeaveListPage :30 -  clicking on leave list linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Leave List')]'
+2021-12-15 23:12:725 INFO  LeaveListPage :35 - Get text from Employee leave page [[ChromeDriver: chrome on WINDOWS (f383a93b7a077ed04e56e46e08762e06)] -> xpath: //label[contains(text(),'Show Leave with Status')]]
+2021-12-15 23:12:617 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:351 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (d1fd7b61d9ada0cf566c16b9587a652f)] -> css selector: input#txtUsername]
+2021-12-15 23:12:633 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (d1fd7b61d9ada0cf566c16b9587a652f)] -> css selector: input#txtPassword]
+2021-12-15 23:12:279 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (d1fd7b61d9ada0cf566c16b9587a652f)] -> css selector: input.button]
+2021-12-15 23:12:57 INFO  LeaveListPage :30 -  clicking on leave list linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Leave List')]'
+2021-12-15 23:12:354 INFO  LeaveListPage :42 -  Enter employee name in leave list[[ChromeDriver: chrome on WINDOWS (d1fd7b61d9ada0cf566c16b9587a652f)] -> xpath: //input[@id='leaveList_txtEmployee_empName']]
+2021-12-15 23:12:224 INFO  LeaveListPage :47 -  Clicking on search button[[ChromeDriver: chrome on WINDOWS (d1fd7b61d9ada0cf566c16b9587a652f)] -> xpath: //input[@id='btnSearch']]
+2021-12-15 23:12:256 INFO  LeaveListPage :51 -  Verify employee name text Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Linda Anderson')]'
+2021-12-15 23:12:83 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:993 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (6bf36963dba82c78588a14c487bd5229)] -> css selector: input#txtUsername]
+2021-12-15 23:12:330 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (6bf36963dba82c78588a14c487bd5229)] -> css selector: input#txtPassword]
+2021-12-15 23:12:807 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (6bf36963dba82c78588a14c487bd5229)] -> css selector: input.button]
+2021-12-15 23:12:438 INFO  AccountPage :27 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (6bf36963dba82c78588a14c487bd5229)] -> css selector: a.panelTrigger]
+2021-12-15 23:12:196 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:789 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (455f5c5145bd560ec745fdd0cc27890d)] -> css selector: input#txtUsername]
+2021-12-15 23:12:970 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (455f5c5145bd560ec745fdd0cc27890d)] -> css selector: input#txtPassword]
+2021-12-15 23:12:420 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (455f5c5145bd560ec745fdd0cc27890d)] -> css selector: input.button]
+2021-12-15 23:12:105 INFO  AccountPage :37 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (455f5c5145bd560ec745fdd0cc27890d)] -> css selector: a.panelTrigger]
+2021-12-15 23:12:758 INFO  AccountPage :44 -  Click on logout link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
+2021-12-15 23:12:739 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:718 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (787c5919cc71b9aba117b1c6a3be1834)] -> css selector: input#txtUsername]
+2021-12-15 23:12:872 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (787c5919cc71b9aba117b1c6a3be1834)] -> css selector: input#txtPassword]
+2021-12-15 23:12:364 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (787c5919cc71b9aba117b1c6a3be1834)] -> css selector: input.button]
+2021-12-15 23:12:786 INFO  LeaveListPage :30 -  clicking on leave list linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Leave List')]'
+2021-12-15 23:12:814 INFO  LeaveListPage :35 - Get text from Employee leave page [[ChromeDriver: chrome on WINDOWS (787c5919cc71b9aba117b1c6a3be1834)] -> xpath: //label[contains(text(),'Show Leave with Status')]]
+2021-12-15 23:12:930 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:412 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (35bfe7800433123d45bcfcee6287b14e)] -> css selector: input#txtUsername]
+2021-12-15 23:12:608 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (35bfe7800433123d45bcfcee6287b14e)] -> css selector: input#txtPassword]
+2021-12-15 23:12:54 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (35bfe7800433123d45bcfcee6287b14e)] -> css selector: input.button]
+2021-12-15 23:12:824 INFO  LeaveListPage :30 -  clicking on leave list linkProxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Leave List')]'
+2021-12-15 23:12:987 INFO  LeaveListPage :42 -  Enter employee name in leave list[[ChromeDriver: chrome on WINDOWS (35bfe7800433123d45bcfcee6287b14e)] -> xpath: //input[@id='leaveList_txtEmployee_empName']]
+2021-12-15 23:12:816 INFO  LeaveListPage :47 -  Clicking on search button[[ChromeDriver: chrome on WINDOWS (35bfe7800433123d45bcfcee6287b14e)] -> xpath: //input[@id='btnSearch']]
+2021-12-15 23:12:870 INFO  LeaveListPage :51 -  Verify employee name text Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Linda Anderson')]'
+2021-12-15 23:12:894 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:773 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (80886c0b627a55ab901d325dfb9003d8)] -> css selector: input#txtUsername]
+2021-12-15 23:12:966 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (80886c0b627a55ab901d325dfb9003d8)] -> css selector: input#txtPassword]
+2021-12-15 23:12:06 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (80886c0b627a55ab901d325dfb9003d8)] -> css selector: input.button]
+2021-12-15 23:12:64 INFO  AccountPage :27 -  Verify text is displayed [[ChromeDriver: chrome on WINDOWS (80886c0b627a55ab901d325dfb9003d8)] -> css selector: a.panelTrigger]
+2021-12-15 23:12:139 INFO  ManageDriver :29 - Launching chrome Browser
+2021-12-15 23:12:767 INFO  HomePage :27 -  Enter email:Admin into the field [[ChromeDriver: chrome on WINDOWS (b77c3b0885f4f9d24f1d609097308af3)] -> css selector: input#txtUsername]
+2021-12-15 23:12:958 INFO  HomePage :33 -  Enter password:admin123 into the field [[ChromeDriver: chrome on WINDOWS (b77c3b0885f4f9d24f1d609097308af3)] -> css selector: input#txtPassword]
+2021-12-15 23:12:393 INFO  HomePage :39 -  Click on login button [[ChromeDriver: chrome on WINDOWS (b77c3b0885f4f9d24f1d609097308af3)] -> css selector: input.button]
+2021-12-15 23:12:72 INFO  AccountPage :37 -  Click on welcome admin button [[ChromeDriver: chrome on WINDOWS (b77c3b0885f4f9d24f1d609097308af3)] -> css selector: a.panelTrigger]
+2021-12-15 23:12:712 INFO  AccountPage :44 -  Click on logout link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Logout')]'
